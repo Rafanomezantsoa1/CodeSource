@@ -12,6 +12,7 @@ public class TestServlet extends HttpServlet {
         resp.getWriter().write(result
                 + "\n"
                 + "URL :"
-                + req.getRequestURI() + "\n");
+                + req.getRequestURI() + "\n"
+        );
     }
-}
+} 
