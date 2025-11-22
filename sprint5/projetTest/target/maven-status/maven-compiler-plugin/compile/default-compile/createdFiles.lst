@@ -1,0 +1,6 @@
+controller\UserController.class
+test\ProductController.class
+entities\Personne.class
+controller\ProductController.class
+controller\TestController.class
+test\UserController.class
