@@ -1,0 +1,7 @@
+annotation\AnnotationController.class
+annotation\GetMapping.class
+servlet\FrontServlet.class
+model\ModelVue.class
+methods\ScannerPackage.class
+annotation\AnnotationUrl.class
+annotation\PostMapping.class
